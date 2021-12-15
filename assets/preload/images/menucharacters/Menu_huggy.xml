@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_huggy.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Huggyidle0000" x="514" y="982" width="250" height="487" frameX="-11" frameY="-5" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0001" x="515" y="0" width="253" height="489" frameX="-8" frameY="-4" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0002" x="259" y="493" width="255" height="491" frameX="-5" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0003" x="0" y="1477" width="257" height="492" frameX="-3" frameY="-1" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0004" x="0" y="0" width="260" height="493" frameX="0" frameY="0" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0005" x="0" y="493" width="259" height="492" frameX="-1" frameY="-1" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0006" x="0" y="985" width="258" height="492" frameX="-2" frameY="-1" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0007" x="257" y="1477" width="257" height="492" frameX="-3" frameY="-1" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0008" x="258" y="985" width="256" height="492" frameX="-4" frameY="-1" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0009" x="260" y="0" width="255" height="491" frameX="-5" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0010" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0011" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0012" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0013" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0014" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0015" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0016" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0017" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+	<SubTexture name="Huggyidle0018" x="514" y="491" width="254" height="491" frameX="-6" frameY="-2" frameWidth="261" frameHeight="493"/>
+</TextureAtlas>
